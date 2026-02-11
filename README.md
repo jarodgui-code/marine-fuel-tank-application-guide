@@ -7,6 +7,12 @@ The content is intended for:
 - B2B buyers and distributors
 - Product engineers and sourcing managers
 - Marine, outdoor, and industrial equipment professionals
+---
+
+## Technical Documents
+
+- Cross-Industry Applications  
+  [View Document](docs/cross-industry-applications.md)
 
 ---
 
