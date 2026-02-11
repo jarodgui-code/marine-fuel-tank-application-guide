@@ -1,4 +1,12 @@
-# HDPE Marine Fuel Tank Application & Selection Guide
+# HDPE Marine Fuel Tank Technical Reference Series
+
+**Last Updated:** 2026-02  
+**Maintained by:** Seaman Marine Supplies  
+**Repository Maintainer:** jarodgui  
+
+---
+
+## HDPE Marine Fuel Tank Application & Selection Guide
 
 This repository provides a structured technical reference for HDPE marine fuel tanks and portable fuel transfer systems.
 
@@ -11,8 +19,6 @@ The focus includes marine, agricultural, lawn care, off-road, and industrial ref
 - B2B buyers and distributors  
 - Product engineers and sourcing managers  
 - Marine, outdoor, and industrial equipment professionals  
-
----
 
 ---
 
