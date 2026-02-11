@@ -1,90 +1,46 @@
 # HDPE Marine Fuel Tank Application & Selection Guide
 
-This repository provides a technical reference for HDPE marine fuel tanks and portable fuel transfer systems.  
-It focuses on real-world applications across marine, off-road, agricultural, lawn, and outdoor environments.
+This repository provides a structured technical reference for HDPE marine fuel tanks and portable fuel transfer systems.
 
-The content is intended for:
-- B2B buyers and distributors
-- Product engineers and sourcing managers
-- Marine, outdoor, and industrial equipment professionals
----
-
-## Technical Documents
-
-- Cross-Industry Applications  
-  [View Document](docs/cross-industry-applications.md)
+The focus includes marine, agricultural, lawn care, off-road, and industrial refueling scenarios.
 
 ---
 
-## Core Application Areas
+## Intended Audience
 
-### Marine Applications
-HDPE marine fuel tanks are widely used for:
-- Outboard engine boats
-- Yachts and tenders
-- Fishing boats and deck boats
-
-Marine-grade design prioritizes fuel compatibility, vibration resistance, and controlled fuel transfer in wet and corrosive environments.
+- B2B buyers and distributors  
+- Product engineers and sourcing managers  
+- Marine, outdoor, and industrial equipment professionals  
 
 ---
 
-### Off-Road & Vehicle-Mounted Use
-Portable HDPE fuel tanks are commonly carried on:
-- Off-road vehicles
-- Overland platforms
-- Motorcycles and utility vehicles
+## Technical Document Structure
 
-In these scenarios, the tank functions strictly as an auxiliary fuel container for transport and controlled transfer, not as a permanent vehicle fuel system.
+### 1. Low Profile Marine Fuel Tank Design
+Compact 12L–24L portable tanks for small boats and confined installations.  
+[View Document](docs/low-profile-design-considerations.md)
 
----
+### 2. Movable Marine Fuel Tanks on Wheels
+High-capacity portable systems (53L / 14 gal) for dockside and field refueling.  
+[View Document](docs/movable-fuel-tanks-on-wheels.md)
 
-### Farm, Lawn & Equipment Use
-Marine-derived fuel tanks are increasingly adopted for:
-- Lawn mowers
-- Tractors and agricultural machinery
-- Generators and pumps
+### 3. External HDPE Marine Fuel Tanks
+Large-capacity external tanks (60L / 90L / 120L) for extended marine runtime.  
+[View Document](docs/external-hdpe-fuel-tanks-evaluation.md)
 
-Compared to consumer gas cans, HDPE tanks offer better durability, stability, and spill control in daily work environments.
-
----
-
-### Home & Emergency Fuel Transfer
-For residential and light commercial users, HDPE fuel tanks are used as:
-- Backup fuel supply for generators
-- Emergency fuel transfer containers
-- Workshop and maintenance refuelling systems
-
-Sealed construction and chemical resistance make them suitable for temporary storage and controlled dispensing.
+### 4. Cross-Industry Applications
+Use cases beyond marine: farm, lawn equipment, off-road vehicles, generators.  
+[View Document](docs/cross-industry-applications.md)
 
 ---
 
-## Why HDPE Marine Fuel Tanks
+## Repository Scope
 
-Key technical advantages:
-- High chemical resistance to gasoline and diesel
-- Impact-resistant blow-molded structure
-- Stable performance under vibration and outdoor exposure
-- Compatibility with hoses, pumps, and nozzles
+This repository focuses on:
 
----
+- Capacity comparison
+- Structural design considerations
+- Material performance (HDPE blow molding)
+- Application-specific engineering factors
+- Portable and movable refueling systems
 
-## Related Resources
-
-- In-depth application guide  
-  https://seamanmarinesupplies.com/beyond-boats-cross-industry-uses-of-portable-marine-fuel-transfer-tanks/
-
-- Fuel tank product overview  
-  https://seamanmarinesupplies.com/?s=fuel+tank&post_type=product
-
-- Manufacturer contact & OEM inquiry  
-  https://seamanmarinesupplies.com/contact/
-
-
----
-
-## About This Repository
-
-This repository is maintained as a technical application guide.  
-It is not a sales page and does not promote direct purchases.
-
-The goal is to provide clear, practical reference material for selecting and applying HDPE marine fuel tanks across industries.
