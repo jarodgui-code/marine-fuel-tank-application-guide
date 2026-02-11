@@ -64,9 +64,15 @@ Key technical advantages:
 
 ## Related Resources
 
-- Full application guide: https://your-website.com/hdpe-fuel-tank-guide  
-- Product catalog: https://your-website.com/catalog  
-- Contact manufacturer: https://your-website.com/contact  
+- In-depth application guide  
+  https://seamanmarinesupplies.com/beyond-boats-cross-industry-uses-of-portable-marine-fuel-transfer-tanks/
+
+- Fuel tank product overview  
+  https://seamanmarinesupplies.com/?s=fuel+tank&post_type=product
+
+- Manufacturer contact & OEM inquiry  
+  https://seamanmarinesupplies.com/contact/
+
 
 ---
 
